@@ -21,6 +21,10 @@ Use the following commands to start each game:
   ```bash
   python rock_paper_scissor.py
   ```
+- **To Do List**:
+  ```bash
+  python to_do_list.py
+  ```
 > [!TIP]
 > If `python` doesn't work, try using `python3` instead.
 ## Projects Included
