@@ -31,6 +31,7 @@ Use the following commands to start each game:
 1.  **Dice Rolling Game**: A fun way to simulate rolling dice.
 2.  **Number Guessing Game**: Test your luck guessing numbers between 1 and 100.
 3.  **Rock Paper Scissors**: Play the classic strategy game against the computer.
+4.  **To Do List**: A classic Todo list,you can create,view,delete your tasks,By selecting numbers indicate tht options.
 
 **Author :**
 **Afthah Bin Rafi**
